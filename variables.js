@@ -1,0 +1,9 @@
+var animal = 'Dog';
+var isCuddly = true;
+animal = 'Cat';
+var num8 = 8;
+var num3 = 3;
+var quotient = num3 / num8;
+var favoriteFilms = ['The Matrix','The Matrix Reloaded','The Matrix Revolutions'];
+var removeFirstFilm = favoriteFilms.shift();
+var stringLength = animal.length;
